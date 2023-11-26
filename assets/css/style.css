@@ -4679,3 +4679,13 @@ body.search-visible {
 .features-content .title {
 	color: black;
 }
+
+.list-wrap li {
+	color: black;
+}
+.banner-images {
+}
+.main-img {
+	width: 200% !important;
+	padding-left: 3rem;
+}
